@@ -6,6 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     background-size: contain;
+    background-repeat: no-repeat;
     font-family: "Pixelify Sans", sans-serif;
 }
 
